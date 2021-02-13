@@ -51,6 +51,7 @@ To answer these questions using Python, you will need to write a Python script. 
 - chicago.csv
 - new_york_city.csv
 - washington.csv
+
 All four of these files are zipped up in the **Bikeshare** file in the resource tab in the sidebar on the left side of this page. You may download and open up that zip file to do your project work on your local machine.
 
 Some versions of this project also include a Project Workspace page in the classroom where the bikeshare.py file and the city dataset files are all included, and you can do all your work with them there.
