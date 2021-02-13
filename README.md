@@ -1,4 +1,4 @@
-# Bike-Share-Udacity
+# Bike Share - Udacity Project
 ## Bike Share Data
 Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities<br>across the world. Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a<br>price. This allows people to borrow a bike from point A and return it at point B, though they can also<br>return it to the same location if they'd like to just go for a ride. Regardless, each bike can serve several<br>users per day.
 
