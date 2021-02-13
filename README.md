@@ -46,12 +46,12 @@ You will learn about bike share use in Chicago, New York City, and Washington by
 - earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
 ## The Files
-To answer these questions using Python, you will need to write a Python script. To help guide your work in this project, a template with helper code and comments is provided in a **bikeshare.py** file, and you will do your scripting in there also. You will need the three city dataset files too:
+To answer these questions using Python, you will need to write a Python script. To help guide your<br>work in this project, a template with helper code and comments is provided in a **bikeshare.py** file, and<br>you will do your scripting in there also. You will need the three city dataset files too:
 
 - chicago.csv
 - new_york_city.csv
 - washington.csv
 
-All four of these files are zipped up in the **Bikeshare** file in the resource tab in the sidebar on the left side of this page. You may download and open up that zip file to do your project work on your local machine.
+All four of these files are zipped up in the **Bikeshare** file in the resource tab in the sidebar on the left<br>side of this page. You may download and open up that zip file to do your project work on your local<br>machine.
 
-Some versions of this project also include a Project Workspace page in the classroom where the bikeshare.py file and the city dataset files are all included, and you can do all your work with them there.
+Some versions of this project also include a Project Workspace page in the classroom where the<br>bikeshare.py file and the city dataset files are all included, and you can do all your work with them<br>there.
